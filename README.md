@@ -14,7 +14,7 @@ An AI-powered career guidance application that helps users discover ideal career
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/PathFinder_AI.git
+git clone https://github.com/vedantpatil03/PathFinder_AI.git
 cd PathFinder_AI
 ```
 
