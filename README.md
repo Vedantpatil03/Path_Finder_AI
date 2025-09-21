@@ -10,6 +10,14 @@ An AI-powered career guidance application that helps users discover ideal career
 - **Actionable Steps**: Gives concrete steps to pursue recommended careers
 - **Modern UI**: Beautiful dark theme with glassmorphism effects
 
+  ##Project UI Interface
+  <img width="1868" height="848" alt="image" src="https://github.com/user-attachments/assets/5bca5df7-a5f3-47a4-b606-6e166c655328" />
+
+  <img width="1831" height="855" alt="image" src="https://github.com/user-attachments/assets/f5c9c930-7c58-4781-bf65-ec2d63f3dff9" />
+
+
+
+
 ## 🚀 Installation
 
 1. Clone the repository:
