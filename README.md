@@ -39,4 +39,4 @@ streamlit run app.py
 
 **Vedant Patil**
 
-Made by Vedant Patil
+
